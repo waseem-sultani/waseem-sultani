@@ -1,36 +1,96 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)](jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0NTc4MDksIm5iZiI6MTcyMzQ1NzUwOSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEyVDEwMTE0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1ODgyODMxODYwZGU3NWRkZWM0Y2I5MjlmYzMzYzQ5MDQzNWFlMTUzNzZjODQwNzdlNjY5YmVmYjJiNGZiY2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TBrPYwp-zDcJUjTKWDXKDP5vZQra9QmAj0z-i3ll-Uo))]
-<h1 align="center">Hi 👋, I'm Muhammad Waseem Sultani</h1>
-<h3 align="center">JavaScript | Typescript | React.js | Next.js | RESTful APIs | Redux toolkit | Context API | Node.js | Express.js | MySQL</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding-icon" width="400"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+## I'm Muhammad Waseem Sultani
+
+# 💫 About Me:
+I’m a dedicated software developer who loves tackling tough problems and always learning something new. My enthusiasm for exploring different tools helps me handle challenges with ease, delivering solutions that truly fit what clients need. I approach every task with a sense of curiosity and persistence, making sure my work is dependable and can grow with time.<br><br>My Skills Include:<br>Front-End Development:  Creating responsive and interactive user interfaces using React.js and Next.js, with expertise in managing state through Redux Toolkit and Context API to enhance user experience.<br>Back-End Development: Developing secure and scalable server-side applications using Node.js, Express.js, and MySQL.<br>APIs: Design and implement seamless communication between applications and external services using RESTful APIs.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waseem-sultani&label=Profile%20views&color=0e75b6&style=flat" alt="waseem-sultani" /> </p>
+  
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waseem-sultani" alt="waseem-sultani" /></a> </p>
+<br/>  
 
-<p align="left"> <a href="https://twitter.com/muhammads_wasim" target="blank"><img src="https://img.shields.io/twitter/follow/muhammads_wasim?logo=twitter&style=for-the-badge" alt="muhammads_wasim" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Next js and express js projects**
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-- 👨‍💻 All of my projects are available at [React js, next js](React js, next js)
 
-- 📫 How to reach me **waseem.sultani.0323@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-waseems/](https://www.linkedin.com/in/muhammad-waseems/)
+### Frontend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.waseem-sultani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.waseem-sultani" height="30" width="40" /></a>
-<a href="https://twitter.com/muhammads_wasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammads_wasim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad waseem sultani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad waseem sultani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/muhammad waseem sultani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad waseem sultani" height="30" width="40" /></a>
-</p>
+</td><td valign="top" width="33%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waseem-sultani&show_icons=true&locale=en&layout=compact" alt="waseem-sultani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waseem-sultani&show_icons=true&locale=en" alt="waseem-sultani" /></p>
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waseem-sultani&" alt="waseem-sultani" /></p>
+</td><td valign="top" width="33%">
+
+
+
+### Databases  
+<div align="center">  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/waseem-sultani" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/muhammads_wasims" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/Muhammad Waseem Sultani" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/Muhammad Waseem Sultani" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/Muhammad Waseem Sultani" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=waseem-sultani&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+
+----
