@@ -6,7 +6,7 @@
 ## I'm Muhammad Waseem Sultani
 
 # 💫 About Me:
-I’m a dedicated software developer who loves tackling tough problems and always learning something new. My enthusiasm for exploring different tools helps me handle challenges with ease, delivering solutions that truly fit what clients need. I approach every task with a sense of curiosity and persistence, making sure my work is dependable and can grow with time.<br><br>My Skills Include:<br>Front-End Development:  Creating responsive and interactive user interfaces using React.js and Next.js, with expertise in managing state through Redux Toolkit and Context API to enhance user experience.<br>Back-End Development: Developing secure and scalable server-side applications using Node.js, Express.js, and MySQL.<br>APIs: Design and implement seamless communication between applications and external services using RESTful APIs.
+I’m a dedicated software developer who loves tackling tough problems and always learning something new. My enthusiasm for exploring different tools helps me handle challenges with ease, delivering solutions that truly fit what clients need. I approach every task with a sense of curiosity and persistence, making sure my work is dependable and can grow with time.<br><br>
 
 
   
